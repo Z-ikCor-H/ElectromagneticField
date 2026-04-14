@@ -5,6 +5,7 @@
 你可以直接下载PDF阅读，也可以自己动手构建，下面介绍一下我当时的步骤
 
 1.下载texlive、vscode（可选）
+
 2.选择XeLaTex编译ElectromagneticField.tex即可
 
 可能出现的错误解决办法
