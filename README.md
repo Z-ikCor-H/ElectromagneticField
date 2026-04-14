@@ -10,7 +10,7 @@
 可能出现的错误解决办法
 
 error:Unable to load picture or PDF file 'Chapter0xx_0x.fig.pdf'
-  在构建时没有成功编译出pdf，故在texlive/vscode中依次将文件夹中.fig.tex/wls文件编译为pdf文件，并新建一个名为build的文件夹将其放入
+在构建时没有成功编译出pdf，故在texlive/vscode中依次将文件夹中.fig.tex/wls文件编译为pdf文件，并新建一个名为build的文件夹将其放入
 error:The font "Noto Serif CJK SC" cannot be found
-  本地没有下载此字体，可以下载安装相应字体
-  若仍然没有解决可以在xNoteBook.cls中更改本地已有字体
+本地没有下载此字体，可以下载安装相应字体
+若仍然没有解决可以在xNoteBook.cls中更改本地已有字体
